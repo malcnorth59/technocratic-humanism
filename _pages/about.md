@@ -1,34 +1,47 @@
 ---
 layout: about
-title: about
+title: Manifesto
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+subtitle: A decentralised architecture for autonomous, empathetic communities.
+nav: false
+nav_title: Home
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Is Our Democracy Failing, and How Do We Fix It?
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Civic Autonomy** is a structural alternative to traditional political and economic paradigms. This manifesto explores how decentralised, data-driven systems can be engineered to restore self-governance to local communities, maximising human flourishing through structural empathy.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For generations, humanity has been forced to choose between rigid, centralised operating systems: **Capitalism**, **Socialism**, and **Communism**. Each of these frameworks attempts to manage human society from the top down, relying on massive bureaucratic engines or volatile market forces that treat local communities as mere cogs in a global machine.
+
+This architecture is the alternative. It is not a political dogma, but a structural framework—a blueprint for transferring power, data, and resources back to the self-governing, self-sustaining capacity of the local community.
+
+---
+
+## Manifesto Roadmap
+
+Select a section below to explore the structural architecture of Civic Autonomy:
+
+### [Part 1: The Myth of the Great Fixer](/manifesto/part-1/)
+***Why Centralisation is the Death of Empathy*** An engineering analysis of how centralised egoism drives Westminster to hoard power and treat public services like spreadsheet metrics instead of human lives, anchored mathematically by an unrepresentative electoral system.
+
+### [Part 2: The Masquerade of the "New"](/manifesto/part-2/)
+***Old Egos Wearing Digital Masks*** Why populist soundbites and radical progressive branding are just old 20th-century political egos wearing digital masks to manipulate sentiment through social media.
+
+### [Part 3: Toxic Airwaves](/manifesto/part-3/)
+***Reclaiming the Democratic Nervous System*** The structural overhauls required to sanitise our digital square: Proof of Humanity protocols, algorithmic publisher liability, federated digital town halls, and statutory truth in public office.
+
+### [Part 4: The Paradox of the Local MP](/manifesto/part-4/)
+***Party Political Ideology vs. Serving the Community*** The structural trap of Westminster, examining how the party whip system actively punishes quiet, grounded, local competence in favour of ideological branding.
+
+### [Part 5: The Macro-State: A Governing Centre of Excellence](/manifesto/part-5/)
+Redefining central government strictly as an architectural standard-setter for national defence, systemic justice, and cross-border logistical arbitration.
+
+### [Part 6: The Operational Infrastructure](/manifesto/part-6/)
+***Application, Selection, and Service Delivery*** The technical architecture of public selection, term limits, the Permanent Administration Team (PAT), and integrating private commerce through open, dual-currency protocols.
+
+### [Part 7: Refocusing on Humankind](/manifesto/part-7/)
+***The Practical Architecture of Local Altruism*** The ultimate blueprint for using advanced technology to manage regional energy grids, mutual-aid health networks, and non-speculative economies to preserve the Union and resolve geopolitical deadlocks.
+
+---
+
+> "We cannot solve a hardware problem with a software patch. We cannot fix a broken, centralised political structure by simply changing the face of the Prime Minister. True progress is not the accumulation of central power, but the radical distribution of local agency."
