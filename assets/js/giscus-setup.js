@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "malcnorth59/technocratic-humanism",
+    "data-repo": "malcnorth59/civic-autonomy",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
