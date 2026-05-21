@@ -72,6 +72,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/civic-autonomy/books/the_godfather/";
+            },},{id: "manifesto-the-myth-of-the-great-fixer",
+          title: 'The Myth of the Great Fixer',
+          description: "",
+          section: "Manifesto",handler: () => {
+              window.location.href = "/civic-autonomy/manifesto/part-1/";
             },},{id: "news-the-myth-of-the-great-fixer",
           title: 'The Myth of the Great Fixer',
           description: "",
